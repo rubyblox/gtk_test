@@ -1,0 +1,20 @@
+*~
+.#*
+*#
+*.bak
+*.log
+*.orig
+*.rej
+/Gemfile.lock
+/vendor/
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# rspec state files
+.rspec_status
